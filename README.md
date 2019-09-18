@@ -2,8 +2,6 @@
 
 The purpose of this report is to visualize historic rental bike data in New York City in order to search for trends that can lead to actionable insights. In a large city such as New York a diverse array of transportation options will always be necessary to serve the population and keep traffic congestion to a minimum. Bike rentals are one option of many and should be encouraged because of the availability of bike lanes and the benefit of being an environmentally friendly selection.
 
-[The Tableau story can be viewed by clicking here](https://bethanylindberg.github.io/CitiBike/)
-
 # Overview of the Data
 
 The citibike data was downloaded from [citibikenyc.com](https://www.citibikenyc.com/system-data). For this analysis the time period chosen is January 2018 to June 2019. Parameters are listed below.
@@ -129,3 +127,7 @@ A review of the purchases and miles traveled over time shows a clear seasonality
 The recent downward trend in bikes available per member may result in insufficient supply during the busiest months of the year, and thus this report suggests a few proactive measures should be taken to avoid this. Bike fleet should be systematically taken out of service and all preventative maintenance done during the colder months and new bikes purchased periodically based on current fleet numbers.
 
 Currently there is an opportunity to increase membership by recruiting more heavily among female residents and tourists. With a targeted marketing campaign and more features that would appeal to this demographic there is potential to tap into a new market segment and increase not only overall rides but also average trip duration.
+
+# Final Note:
+
+The data for this project was too large to allow to deploy the story to Tableau Public and the .twbx file is too large to upload to GitHub. If you would like to obtain the source data or the Tableau workbooks please contact the owner of the project at bethanyllindberg@gmail.com.
