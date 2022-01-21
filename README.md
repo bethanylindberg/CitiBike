@@ -115,10 +115,10 @@ Examination of relationships between number or records and weather shows that ch
 
 The static map confirms what many would expect of the dataset with most trips being centered around Manhattan hot spots and the longest trips ending farther from the city center. Based on the analysis 3 of the 5 most popular Citibike  stations are near major transportations hubs:
 
-*Grand Central (major train station)
-*Union Square (major subway station where multiple lines
+* Grand Central (major train station)
+* Union Square (major subway station where multiple lines
 connect)
-*Penn Station (major train station)
+* Penn Station (major train station)
 
 A review of the purchases and miles traveled over time shows a clear seasonality previously observed in the plot of peak dates. An overview shows up upward trend in number of bikes, total members and total stations and a downward trend in bikes per member.
 
